@@ -99,6 +99,6 @@ Video {
 }
 
 iframe {
-  margin: auto;
+  margin: 0 auto;
   display: block;
 }
